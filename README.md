@@ -33,8 +33,8 @@
 
 
 ### 🌧️ Rainy Weather - Bhopal
-![Rainy - Bhopal](# 🌦️ (https://github.com/user-attachments/assets/e6f985ba-5d4f-4266-898f-c039375492b0)
-nnect 
+![Rainy - Bhopal](https://github.com/user-attachments/assets/e6f985ba-5d4f-4266-898f-c039375492b0)
+
 
 **Your Gateway to Weather Insights**
 
