@@ -32,7 +32,7 @@
 ![Sunny - Dubai](https://github.com/user-attachments/assets/e298c750-6733-4a85-990c-7245f369f3e1)
 
 
-### 🌧️ Rainy Weather - Bhopal
+### 🌧️ Clear Weather - Dhanbad
 ![Rainy - Bhopal](https://github.com/user-attachments/assets/c69dab9f-a3f0-47a0-8d8c-abd30b473d4f)
 
 
