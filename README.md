@@ -29,10 +29,12 @@
 ## 📸 Screenshots
 
 ### ☀️ Sunny Weather - Dubai
-![Sunny - Dubai](./frontend/screenshots/sunny-dubai.png)
+![Sunny - Dubai](https://github.com/user-attachments/assets/e298c750-6733-4a85-990c-7245f369f3e1)
+
 
 ### 🌧️ Rainy Weather - Bhopal
-![Rainy - Bhopal](# 🌦️ Climate Connect
+![Rainy - Bhopal](# 🌦️ (https://github.com/user-attachments/assets/e6f985ba-5d4f-4266-898f-c039375492b0)
+nnect 
 
 **Your Gateway to Weather Insights**
 
